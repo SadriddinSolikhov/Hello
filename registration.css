@@ -1,0 +1,243 @@
+ 
+/*это гирди шапка*/
+.tab1{
+    border: 1px solid #EEE9E9;
+    width: 420px;
+    height: 850px;
+    margin-top: 20px;
+    margin-left:  450px;
+}
+
+.text{
+     padding-left: 20px;
+}
+
+input{
+    border: 1px solid #EEE9E9;
+    height: 30px;
+    width: 330px;
+    
+}
+/* это дата рождения*/
+.inp1{
+    margin-top: -36px;
+    margin-left: 20px;
+    height: 30px;
+    width: 90px;
+}
+/* это месяц*/
+.inp2{
+    margin-top: -52px;
+    margin-left:110px;
+    height: 30px;
+    width: 130px;
+}
+/* это год*/
+.inp3{
+    margin-top: -68px;
+    margin-left:240px;
+    height: 30px;
+    width: 80px;
+}
+/* это для ИФО*/
+h5{
+    margin-left: 20px;
+ } 
+ 
+ .pol{
+    margin-top: -50px;
+    margin-left: 20px;
+}
+/* это кнопка мужского*/
+.knop1{
+    width: 15px;
+    height: 15px;
+    margin-top:-10px;
+    margin-left:20px;
+    
+}
+/* это мужской*/    
+.pol1{
+   margin-left: 39px;
+   margin-top: -15px;
+}
+/* это кнопка Женского*/
+.knop2{
+    width: 15px;
+    height: 15px;
+    margin-top:-36px;
+    margin-left:110px;
+    
+}
+/* это Женской*/    
+.pol2{
+    margin-left: 130px;
+    margin-top: -36px;
+ }
+ /* это  паспортные данные (Серия)*/    
+  /* это TJ и RS*/    
+.knop3{
+    margin-left: 110px;
+    margin-top: -40px;
+}
+.gragdanstvo{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+/*это день для паспорта*/
+.knop4{
+    width: 55px;
+    height: 25px;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+/*это текст(Выдача)*/
+.data{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+/*это Месяц для паспорта*/
+.inp5{
+    width: 70px;
+    height: 25px;
+    margin-top: -46px;
+    margin-left: 74px;
+}
+/*это Год для паспорта*/
+.inp6{
+    width: 70px;
+    height: 25px;
+    margin-top: -62px;
+    margin-left: 144px;
+}
+
+/*это текст(Законченно)*/
+.data1{
+    margin-left: 230px;
+    margin-top: -110px;
+}
+/*это День для окончание паспорта*/
+.knop7{
+    width: 55px;
+    height: 25px;
+    margin-top: -31px;
+    margin-left: 230px;
+}
+/*это Месяц для окончание паспорта*/
+.knop8{
+    width: 55px;
+    height: 25px;
+    margin-top: -47px;
+    margin-left: 285px;
+}
+/*это Год для окончание паспорта*/
+.knop9{
+    width: 55px;
+    height: 25px;
+    margin-top: -63px;
+    margin-left: 340px;
+}
+
+/*это для  ТЕКСТА серрия паспорта*/
+.seria{
+    margin-top: -50px;
+    margin-left: 20px;
+}
+/*это для  номер серрии паспорта */
+.knop10{
+    width: 100px;
+    height: 25px;
+    margin-top: -10px;
+    margin-left: 20px;
+}
+.namer{
+    margin-top: -75px;
+    margin-left: 160px;
+}
+.knop11{
+    width: 100px;
+    height: 25px;
+    margin-top: -10px;
+    margin-left: 150px;
+}
+/*это для   кем выдан паспорта */
+.vidan{
+    margin-top: -15px;
+    margin-left: 20px;
+}
+.knop12{
+    width: 376px;
+    height: 25px;
+    margin-top: -10px;
+    margin-left: 20px;
+}
+/*это для место для Текста (Имя акаунта) */
+.akaunt{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+/*это для место для mail */
+.mail{
+    width: 310px;
+    height: 25px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.knop13{
+    width: 70px;
+    height: 25px;
+    margin-top: -25px;
+    margin-left: 330px;
+} 
+/*это для ТЕКСТА (пароль)*/
+.parol{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+/*это для ВЫВОДИТЬ пароль*/
+.pass{
+    width: 376px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+/*это для  ТЕКСТА пароль*/
+.parol1{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+/*это для ВЫВОДИТЬ  повторного пароль*/
+.pass1{
+    width: 376px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+/*это для ТЕКСТА номера*/
+.nomer{
+    margin-top: -75px;
+    margin-left: 150px;
+}
+/*это для  страна*/
+.strana{
+    width: 150px;
+    height: 30px;
+    margin-top: -18px;
+    margin-left: 20px;
+}
+/*это для  для ТЕКСТА*/
+.nomer{
+    margin-top: -13px;
+    margin-left: 20px;
+}
+/*это для выводить номер телефона*/
+.nomer1{
+    width: 225px;
+    height: 30px;
+    margin-top: -45px;
+    margin-left: 170px;
+}
+.registration{
+    height: 30px;
+    background-color: #2A45DC;
+    margin-top: 20px;
+    margin-left: 20px;
+}
