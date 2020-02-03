@@ -1,0 +1,46 @@
+/* это вокруг рамки */
+.tab{
+    border: solid 1px  ;
+    width: 390px;
+    height: 300px;
+    margin-top: 140px;
+    margin-left: 450px;
+}
+
+/* это место для Логин*/
+.inp1{
+   margin-top: 70px;
+   margin-left: 40px;
+   width: 210px;
+   height: 30px;
+}
+/* это ТЕКСТ Логин*/
+.tex{
+    margin-left: 39px;
+    margin-top: -50px;
+}
+/* это место для Майл*/
+.maili{
+    width: 100px;
+    height: 30px;
+    margin-top: -18px;
+    margin-left: 250px;
+}
+/* это место для Логин*/
+.tex1{
+    margin-left: 39px;
+    margin-top: -50px;
+}
+/* это место для Логин*/
+.inp2{
+    margin-top: 20px;
+   margin-left: 40px;
+   width: 310.1px;
+   height: 30px;
+}
+.knop{
+    background-color: #24ef;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+}

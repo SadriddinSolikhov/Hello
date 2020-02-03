@@ -1,0 +1,169 @@
+ 
+/*это гирди шапка*/
+.tab1{
+    border: 1px solid #EEE9E9;
+    width: 420px;
+    height: 700px;
+    margin-top: 20px;
+    margin-left:  450px;
+}
+/*это текст регистрации*/
+.text{
+     padding-left: 20px;
+}
+/*это текст ИМЯ*/
+.imya{   
+    border: 1px solid #EEE9E9;
+    height: 30px;
+    width: 180px;
+}
+/*это текст Фамилия*/
+.familiya{
+    border: 1px solid #EEE9E9;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: -30px;
+    width: 180px;
+}
+.terminator{
+    margin-top: -70px;
+    margin-left: 219px;
+}
+/* это дата рождения*/
+.inp1{
+    margin-top: -36px;
+    margin-left: 20px;
+    height: 30px;
+    width: 90px;
+}
+/* это  ТЕКСТ дата рождения*/
+.tavalud{
+  margin-top: 39px;
+}
+/* это месяц*/
+.inp2{
+    margin-top: -52px;
+    margin-left:110px;
+    height: 30px;
+    width: 130px;
+}
+/* это год*/
+.inp3{
+    margin-top: -68px;
+    margin-left:240px;
+    height: 30px;
+    width: 80px;
+}
+/* это для ИФО*/
+h5{
+    margin-left: 20px;
+ } 
+ 
+ .pol{
+    margin-top: -50px;
+    margin-left: 20px;
+}
+/* это кнопка мужского*/
+.knop1{
+    width: 15px;
+    height: 15px;
+    margin-top:-10px;
+    margin-left:20px;
+    
+}
+/* это мужской*/    
+.pol1{
+   margin-left: 39px;
+   margin-top: -15px;
+}
+/* это кнопка Женского*/
+.knop2{
+    width: 15px;
+    height: 15px;
+    margin-top:-36px;
+    margin-left:110px;
+    
+}
+/* это Женской*/    
+.pol2{
+    margin-left: 130px;
+    margin-top: -36px;
+ }
+
+ 
+ 
+
+/*это для место для Текста (Имя акаунта) */
+.akaunt{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+/*это для место для mail */
+.mail{
+    width: 310px;
+    height: 25px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.knop13{
+    width: 70px;
+    height: 25px;
+    margin-top: -25px;
+    margin-left: 330px;
+} 
+/*это для ТЕКСТА (пароль)*/
+.parol{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+/*это для ВЫВОДИТЬ пароль*/
+.pass{
+    width: 376px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+/*это для  ТЕКСТА пароль*/
+.parol1{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+/*это для ВЫВОДИТЬ  повторного пароль*/
+.pass1{
+    width: 376px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+/*это для ТЕКСТА номера*/
+.nomer{
+    margin-top: -75px;
+    margin-left: 150px;
+}
+/*это для  страна*/
+.strana{
+    width: 150px;
+    height: 30px;
+    margin-top: -18px;
+    margin-left: 20px;
+}
+/*это для  для ТЕКСТА*/
+.nomer{
+    margin-top: -13px;
+    margin-left: 20px;
+}
+/*это для выводить номер телефона*/
+.nomer1{
+    width: 225px;
+    height: 30px;
+    margin-top: -46px;
+    margin-left: 170px;
+}
+/*это кнопка регистрации*/
+.registration{
+    height: 30px;
+    background-color: #2A45DC;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.napishi{
+
+}
